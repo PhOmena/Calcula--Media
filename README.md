@@ -10,22 +10,17 @@
 <br>
 <div width="100%" align="center"> 
 <br>
-<img width="400" src="https://user-images.githubusercontent.com/62610767/90542751-f6ac1380-e15a-11ea-8d84-59245cd7f275.jpeg" alt="Bob Esponja"> 
-<img width="400" src="https://user-images.githubusercontent.com/62610767/90542750-f6137d00-e15a-11ea-960c-bd33c627486d.jpeg" alt="Patrick Estrela"> 
+<img width="400" src="https://user-images.githubusercontent.com/62610767/90549133-6a065300-e164-11ea-823b-e45861576289.jpeg" alt="Bob Esponja"> 
+<img width="400" src="https://user-images.githubusercontent.com/62610767/90549129-696dbc80-e164-11ea-8cbd-a1cf686e5b81.jpeg" alt="Patrick Estrela"> 
 <br>
-<img width="400" src="https://user-images.githubusercontent.com/62610767/90542749-f6137d00-e15a-11ea-8a31-e67adc682c2b.jpeg" alt="Doug Funny"> 
-<img width="400" src="https://user-images.githubusercontent.com/62610767/90542746-f4e25000-e15a-11ea-8ac0-141df6648bf3.jpeg" alt="Grades"> 
+<img width="400" src="https://user-images.githubusercontent.com/62610767/90549128-68d52600-e164-11ea-879f-ec6216112204.jpeg" alt="Doug Funny"> 
+<img width="400" src="https://user-images.githubusercontent.com/62610767/90549126-683c8f80-e164-11ea-86dc-c8de37c29c14.jpeg" alt="Grades"> 
 <br>
 </div>
 
 <h2>Description</h2>
-<p>I developed an application in C# for a <b>student registration</b>, calculating a media and showing the grade and concept when you click on button <b>calculate</b></p>
+<p>I developed an application in C# for a <b>student registration</b>, calculating a media and showing the grade and concept when you click on button <b>calculate!</b> Here the students can register your names, informations, grades and even a picture! The student can view your grandes on a table and this project had been made fully in C#, using concepts to create an application Desktop.</p>
 <br>
-<p>Media less than 5, must be show in red</p>
-<p>Media less than 5 until 7, must be show in brown</p>
-<p>Media less than 7 until 9, must be show in green</p>
-<p>Media less than 9 until 10, must be show in blue</p>
-
 
 
 
