@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<h2>Design das telas</h2>
+<h2>Screen Design</h2>
 <br>
 <div width="100%" align="center"> 
 <br>
