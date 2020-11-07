@@ -19,7 +19,7 @@
 </h1>
 
 <h2>Description</h2>
-<p>I developed an application in C# for a <b>student registration</b>, calculating a media and showing the grade and concept when you click on button <b>calculate!</b> Here, the students can register your names, informations, grades and even a picture! The student can view your grandes on a table and this project had been made fully in C#, using concepts to create an application Desktop.</p>
+<p>I developed an application in C# for a <b>student registration</b>, calculating an average and showing the grade and concept when you click on button <b>calculate!</b> Here, the students can register your names, informations, grades and even a picture! The student can view your grandes on a table and this project had been made fully in C#, using concepts to create an application Desktop.</p>
 <br>
 
 
